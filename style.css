@@ -1,0 +1,22 @@
+.btn{
+    display: flex;
+    align-items: center;
+}
+#clear,#hide{
+    margin-left: 15px;
+}
+svg{
+    margin: 0 5px;
+}
+h1{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.navigator{
+    display: flex;
+}
+textarea{
+    resize: none;
+}
